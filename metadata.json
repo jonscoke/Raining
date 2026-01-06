@@ -1,0 +1,4 @@
+{
+  "name": "Heartfelt Rain",
+  "description": "A physics-based rain simulation on glass with fixed time-delta interpolation for smooth speed adjustments."
+}
